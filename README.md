@@ -41,5 +41,5 @@ https://github.com/lyshie/lamp-xoops
 ```bash
 $ apt-get install docker.io
 ```
-在 dcs.tn.edu.tw 平台上執行 Docker 可以將現有的 Ubuntu 單純化(bare metal hypervisor)，作業系統升級時套件相依性也簡化，儘可能可以升級至 Ubuntu 16.04.2 LTS。各個服務只在自己的 container 裡面執行，這一層的虛擬化讓這些服務可以快速佈署與轉移。
+在 dcs.tn.edu.tw 平台上執行 Docker 可以將現有的 Ubuntu 單純化，作業系統升級時套件相依性也簡化，儘可能可以升級至 Ubuntu 16.04.2 LTS。各個服務只在自己的 container 裡面執行，這一層的虛擬化讓這些服務可以快速佈署與轉移。
 )
